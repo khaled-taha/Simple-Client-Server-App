@@ -1,0 +1,10 @@
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\bin\Debug\Client Server App.exe.config
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\bin\Debug\Client Server App.exe
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\bin\Debug\Client Server App.pdb
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\obj\Debug\Client Server App.csproj.AssemblyReference.cache
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\obj\Debug\Client_Server_App.Form1.resources
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\obj\Debug\Client_Server_App.Properties.Resources.resources
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\obj\Debug\Client Server App.csproj.GenerateResource.cache
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\obj\Debug\Client Server App.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\obj\Debug\Client Server App.exe
+C:\Users\Khaled Taha\source\repos\Client Server App\Client Server App\obj\Debug\Client Server App.pdb

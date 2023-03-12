@@ -1,0 +1,10 @@
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\bin\Debug\Client Side.exe.config
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\bin\Debug\Client Side.exe
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\bin\Debug\Client Side.pdb
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\obj\Debug\Client Side.csproj.AssemblyReference.cache
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\obj\Debug\Client_Side.Form1.resources
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\obj\Debug\Client_Side.Properties.Resources.resources
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\obj\Debug\Client Side.csproj.GenerateResource.cache
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\obj\Debug\Client Side.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\obj\Debug\Client Side.exe
+C:\Users\Khaled Taha\source\repos\Client Side\Client Side\obj\Debug\Client Side.pdb
